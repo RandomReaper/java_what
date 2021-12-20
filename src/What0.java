@@ -1,4 +1,3 @@
-package java_what;
 
 public class What0 {
 	public static String d(int[] a) {

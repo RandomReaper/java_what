@@ -1,4 +1,3 @@
-package java_what;
 
 public class What1 {
 
